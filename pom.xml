@@ -12,7 +12,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
-    <sonar.projectKey>adrian-deleon-sonarsource_demo-java-security_51b89d20-9f9b-4303-8eec-81acf72e173e</sonar.projectKey>
+    <sonar.projectKey>adrian-deleon-sonarsource_demo-java-security_fcbb48cd-1725-48da-9ea8-62d288c7fe80</sonar.projectKey>
     <sonar.projectName>demo-java-security</sonar.projectName>
   </properties>
   <dependencies>
